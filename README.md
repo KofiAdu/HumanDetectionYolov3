@@ -7,7 +7,7 @@ are within the frame. The project is also setup with the flask framework, enabli
 
 ## Prerequisites
 
-Before you use the code, you will need to install OpenCV ```pip install opencv-python```. Next step is instsalling numpy ```pip install numpy```, then you have to also install flask ```pip install Flask```. You will aslo need to downloada yolov3.weights and put it in the right directory. You can download it from this link: 
+Before you use the code, you will need to install OpenCV ```pip install opencv-python```. Next step is instsalling numpy ```pip install numpy```, then you have to also install flask ```pip install Flask```. You will aslo need to download yolov3.weights and put it in the right directory. You can download it from this link: 
 https://pjreddie.com/darknet/yolo/
 
 
